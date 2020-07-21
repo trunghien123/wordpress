@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-20 16:10+0700\n"
+"PO-Revision-Date: 2020-07-20 16:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "<h1>404 NOT FOUND</h1>"
+msgstr ""
+
+#: 404.php:7
+msgid "<p>Không tìm thấy các bài viết đã tìm</p>"
+msgstr ""
+
+#: 404.php:10
+msgid "<h3>Content categories: </h3>"
+msgstr ""
+
+#: 404.php:15
+msgid "Tag Cloud"
+msgstr ""
+
+#: archive.php:8
+#, php-format
+msgid "Posts tagged: %1$s"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Post categorized: %1$s"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+msgid "Daily Archives: %1$s"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Month Archives: %1$s"
+msgstr ""
+
+#: archive.php:16
+#, php-format
+msgid "Year Archives: %1$s"
+msgstr ""
+
+#: content-image.php:10
+#, php-format
+msgid "This image post contains %1$s photos"
+msgstr ""
+
+#: content-none.php:3
+msgid "Nothing post found"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:62
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:125
+msgid "Older Posts"
+msgstr ""
+
+#: functions.php:128
+msgid "Newer Posts"
+msgstr ""
+
+#: functions.php:169
+#, php-format
+msgid "<span class=\"author\"> Posted by %1$s"
+msgstr "<span class=\"author\"> Đăng bởi  %1$s"
+
+#: functions.php:171
+#, php-format
+msgid "<span class=\"date-published\"> at %1$s"
+msgstr ""
+
+#: functions.php:173
+#, php-format
+msgid "<span class=\"category\"> in %1$s "
+msgstr ""
+
+#: functions.php:178
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:179
+msgid "One comment"
+msgstr ""
+
+#: functions.php:180
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: functions.php:181
+msgid "Read all comment"
+msgstr ""
+
+#: functions.php:204
+msgid "<p>Page: "
+msgstr ""
+
+#: functions.php:206
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:207
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:215
+msgid "Read More"
+msgstr ""
+
+#: functions.php:224
+#, php-format
+msgid "Tagged in %1$s"
+msgstr ""
+
+#: search.php:10
+#, php-format
+msgid "<h3>Có %1$s từ khóa được tìm thấy </h3>"
+msgstr ""
+
+#: sidebar.php:5
+msgid "This is widget area. Go to Appearance -> Widgets to add some widgets."
+msgstr ""
